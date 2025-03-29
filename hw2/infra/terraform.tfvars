@@ -1,0 +1,15 @@
+#=========== main ==============
+cloud_id     = "b1ga8f69vvrvbrcs1glv"
+folder_id    = "b1gggk4dd7m9j6hsh03t"
+
+yc_service_account_name  = "hw2-service-account"
+yc_network_name          = "hw2-network"
+yc_subnet_name           = "hw2-subnet"
+yc_zone                  = "ru-central1-b"
+yc_subnet_range          = "10.1.0.0/24"
+yc_nat_gateway_name      = "hw2-nat-gateway"
+yc_route_table_name      = "hw2-route-table"
+yc_security_group_name   = "hw2-security-group"
+yc_bucket_name           = "hw2-data-bucket"
+yc_dataproc_cluster_name = "hw2-dataproc-cluster"
+public_key_path          = "~/.ssh/id_ed25519.pub"

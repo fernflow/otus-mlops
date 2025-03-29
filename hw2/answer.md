@@ -1,0 +1,1 @@
+бакет https://console.yandex.cloud/folders/b1gggk4dd7m9j6hsh03t/storage/buckets/my-new-test-bucket
