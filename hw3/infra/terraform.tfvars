@@ -2,7 +2,6 @@
 cloud_id     = "b1ga8f69vvrvbrcs1glv"
 folder_id    = "b1gggk4dd7m9j6hsh03t"
 
-yc_token                 = "y0__xD6hYCEAhjB3RMgh_WBuhKtXv0mEhXSqqcFBp5pOODa_q7rFw"
 yc_service_account_name  = "hw3-service-account"
 yc_network_name          = "hw3-network"
 yc_subnet_name           = "hw3-subnet"
