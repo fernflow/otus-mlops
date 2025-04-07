@@ -1,0 +1,16 @@
+#=========== main ==============
+cloud_id     = "b1ga8f69vvrvbrcs1glv"
+folder_id    = "b1gggk4dd7m9j6hsh03t"
+
+yc_token                 = "y0__xD6hYCEAhjB3RMgh_WBuhKtXv0mEhXSqqcFBp5pOODa_q7rFw"
+yc_service_account_name  = "hw3-service-account"
+yc_network_name          = "hw3-network"
+yc_subnet_name           = "hw3-subnet"
+yc_zone                  = "ru-central1-b"
+yc_subnet_range          = "10.1.0.0/24"
+yc_nat_gateway_name      = "hw3-nat-gateway"
+yc_route_table_name      = "hw3-route-table"
+yc_security_group_name   = "hw3-security-group"
+yc_bucket_name           = "hw3-data-bucket"
+yc_dataproc_cluster_name = "hw3-dataproc-cluster"
+public_key_path          = "~/.ssh/id_ed25519.pub"
