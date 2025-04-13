@@ -1,4 +1,5 @@
 *.tfstate
+*.tfvars
 *.tfstate.backup
 *.tfstate.backup.*
 *.tfplan

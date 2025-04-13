@@ -1,8 +1,3 @@
-variable "yc_token" {
-  type        = string
-  description = "Yandex Cloud OAuth token"
-}
-
 variable "cloud_id" {
   description = "Yandex Cloud ID"
   type        = string
